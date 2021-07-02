@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### A Good Thought to Read out. !
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
 
 ### Never miss a chance to Laugh. Read out a Joke. !  
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
