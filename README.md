@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: ... https://www.linkedin.com/in/kulkarnipawan/
 
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawankulkarni13&show_icons=true&theme=radical)
 
@@ -25,3 +24,5 @@ Here are some ideas to get you started:
 
 ### Never miss a chance to Laugh. Read out a Joke. !  
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+[![Linkedin: PawanKulkarni](https://img.shields.io/badge/pawankulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kulkarnipawan/)](https://www.linkedin.com/in/kulkarnipawan/)
