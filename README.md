@@ -3,17 +3,6 @@
 <!--
 **pawankulkarni13/pawankulkarni13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawankulkarni13&show_icons=true&theme=radical)
@@ -26,3 +15,5 @@ Here are some ideas to get you started:
 
 How to reach me:
 [![Linkedin: PawanKulkarni](https://img.shields.io/badge/pawankulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kulkarnipawan/)](https://www.linkedin.com/in/kulkarnipawan/)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankulkarni13&show_icons=true&locale=en&layout=compact" alt="pawankulkarni13" /></p>
